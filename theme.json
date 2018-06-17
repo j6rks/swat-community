@@ -1,6 +1,6 @@
 {
-"room": "Any Genre Room",
-"author": "Meøw",
+"room": "SWAT Radio",
+"author": "Jorgen",
 "icon": null,
 "css": "https://rawgit.com/j6rks/s-wat/master/style.css",
 "rules":{
@@ -27,7 +27,7 @@
 "user": "#9299A8"
 },
 "images":{
-"background": "https://cdn.radiant.dj/rcs/bg/16.png",
+"background": null,
 "playback": null,
 "admin": null,
 "ambassador": null,
